@@ -1,3 +1,3 @@
 # Lesson 1 Pseudocode
 
-Course description here
+Course description here!
